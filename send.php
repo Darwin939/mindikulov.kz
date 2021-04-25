@@ -21,6 +21,11 @@ header('Refresh: 3; URL=index.html');
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
+<!-- Event snippet for Отправка формы для потенциальных клиентов conversion page -->
+<script>
+  gtag('event', 'conversion', {'send_to': 'AW-797504689/wClLCKacrosCELHpo_wC'});
+</script>
+
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta http-equiv="refresh" content="3; url=index.html">
 <title>Спасибо! Мы свяжемся с вами!</title>
